@@ -1,0 +1,4 @@
+Steps
+
+install erlang on terminal, and  check version 'erl -v'
+install yaws : 'sudo port install yaws' and check version 'yaws -v'
